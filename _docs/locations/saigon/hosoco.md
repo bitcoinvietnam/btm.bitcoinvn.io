@@ -8,9 +8,7 @@ interface_lang:
 cryptos:
     BTC: {"buy": true, "sell": true}
 openings:
-    Monday - Friday: {"time": "9 AM - 6 PM"}
-    Saturday: {"time": "9 AM - 4 PM"}
-    Sunday: {"Closed"}
+    Monday - Sunday: {"time": "9 AM - 10:30 PM"}
 google_maps_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3920.022395082784!2d106.70809740000001!3d10.732756000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752fb3a82be45f%3A0xc5eb169afc0a299a!2sHosoco!5e0!3m2!1sen!2s!4v1713784008017!5m2!1sen!2s
 ---
 * Address: 55 Đ. Phan Khiêm Ích, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 70000, Vietnam
