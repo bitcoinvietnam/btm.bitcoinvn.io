@@ -17,6 +17,8 @@ google_maps_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d244.94510
 * Phone: +84338787459
 * Style: Authentic Chicago Deep Dish pizza & street food
 
+![]({{ site.baseurl }}/images/capones/4.jpg)
+
 Capone’s Chicago Deep Dish Pizza has been filling a gap in Saigon’s ever expanding scene of food offerings:
 
 ![]({{ site.baseurl }}/images/capones/deep_fried.jpg)
