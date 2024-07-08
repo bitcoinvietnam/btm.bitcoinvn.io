@@ -10,7 +10,7 @@ show_full_navigation: true
 social:
   email: support+btm@bitcoinvn.io
   facebook: https://www.facebook.com/BitcoinATMHCMC
-  telegram: https://t.me/BitcoinATMVietnamUpdates
+  telegram: https://t.me/BitcoinATMHCMC
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /btm/images/bitcoinvn.svg
