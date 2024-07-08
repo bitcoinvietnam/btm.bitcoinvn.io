@@ -1,6 +1,6 @@
 ---
 category: FAQ
-title: How to sell Bitcoin or other cryptocurrency?
+title: How to sell Bitcoin at our BTMs
 order: 4
 ---
 
@@ -15,3 +15,5 @@ you enter your phone number on the BTM and receive the cash. This option is slow
 to wait 10-30 minutes for confirmations.
 
 <iframe width="100%" height="423" src="https://www.youtube.com/embed/6DqqVN0LXrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="806" height="477" src="https://www.youtube.com/embed/zy31VgCqcCc" title="BitcoinVN BTM- How To Sell Instructional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
