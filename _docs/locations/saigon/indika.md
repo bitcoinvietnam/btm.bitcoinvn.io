@@ -8,7 +8,7 @@ interface_lang:
 cryptos:
     BTC: {"buy": true, "sell": true}
 openings:
-    Every day: {"time": "11 AM - 12 AM"}
+    Every day: {"time": "4 PM - 12 AM"}
 google_maps_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15677.019645022137!2d106.68855357145752!3d10.791778077578753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528caf9312557%3A0xb0c0c38244b4f5e0!2sIndika%20Saigon%20(House%20of%20Curiosity)!5e0!3m2!1sen!2s!4v1678859952421!5m2!1sen!2s
 ---
 
