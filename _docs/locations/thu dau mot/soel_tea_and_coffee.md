@@ -1,6 +1,6 @@
 ---
 category: Locations, Thu Dau Mot
-title: Peace Coffee, Binh Duong
+title: Soel Tea & Coffee, Binh Duong
 layout: btm
 interface_lang:
     - vi
@@ -28,11 +28,11 @@ Located 50 minutes north of HCMC, our newest Bitcoin ATM machine has launched in
 ![]({{ site.baseurl }}/images/peace_coffee/second_pc.jpeg)
 ![]({{ site.baseurl }}/images/peace_coffee/second_pt2_pc.jpeg)
 
-PEACE coffee has been a staple in the young adult scene and business oriented people in Thu Dau Mot. Famous for their acoustic nights showcasing local talent and millions of views on TikTok, PEACE coffee is in tune with needs of today- coffee, time with friends, enjoyment and fast pace movement in today’s age.
+Soel Tea & Coffee (previoulsy named PEACE coffee) has been a staple in the young adult scene and business oriented people in Thu Dau Mot. Famous for their acoustic nights showcasing local talent and millions of views on TikTok, PEACE coffee is in tune with needs of today- coffee, time with friends, enjoyment and fast pace movement in today’s age.
 
 ![]({{ site.baseurl }}/images/peace_coffee/third_pc.jpeg)
 
-Phuc Bach is the man behind PEACE coffee. A local entrepreneur, he started his career in marketing and advertising in Saigon. After some time there, he decided to get into coffee and opened up a few locations as well as selling wholesale green bean and roasted coffee to business and retail. He used his talents from marketing to build an impressive portfolio of marketing campaigns and [TikTok videos](https://www.tiktok.com/@peacecoffee.bd) which have amassed MILLIONS of views. 
+Phuc Bach is the man behind PEACE and Soel Tea & Coffee. A local entrepreneur, he started his career in marketing and advertising in Saigon. After some time there, he decided to get into coffee and opened up a few locations as well as selling wholesale green bean and roasted coffee to business and retail. He used his talents from marketing to build an impressive portfolio of marketing campaigns and [TikTok videos](https://www.tiktok.com/@peacecoffee.bd) which have amassed MILLIONS of views. 
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@peacecoffee.bd" data-unique-id="peacecoffee.bd" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@peacecoffee.bd?refer=creator_embed">@peacecoffee.bd</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 

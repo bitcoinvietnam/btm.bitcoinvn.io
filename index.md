@@ -14,9 +14,9 @@ title: The fastest & most anonymous way to buy & sell Bitcoin for cash in Vietna
 
 ## What is a Bitcoin ATM?
 
-BitcoinVN Bitcoin ATM (BTM) is a self-service kiosk that allows you to buy or sell Bitcoin for cash.
+BitcoinVN Bitcoin ATM (BTM) is a self-service kiosk that allows you to buy or sell Bitcoin for Vietnamese cash.
 
-![](images/indika/IMG_4496.jpg)
+![](images/indika/IMG_4496.jpeg)
 
 ----
 
