@@ -5,8 +5,7 @@ layout: btm
 interface_lang:
     - vi
     - en
-    - ru
-    - kr
+
 cryptos:
     BTC: {"buy": true, "sell": true}
 openings:

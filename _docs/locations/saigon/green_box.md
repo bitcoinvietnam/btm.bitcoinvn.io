@@ -5,8 +5,6 @@ layout: btm
 interface_lang:
     - vi
     - en
-    - ru
-    - kr
 cryptos:
     BTC: {"buy": true, "sell": true}
 openings:
@@ -33,7 +31,7 @@ Filled with friends, meet-ups and co-working space go-getters, this independent 
 
 Tucked into the heart of Thao Dien, Green Box stands out for its commitment to quality ingredients and sustainability, earning a loyal following among those who value food that’s as good for you as it is delicious. The vibe is laid-back yet forward-thinking—a spot where you can unwind with a meal that doesn’t break the bank, then step up to make international transactions with VND. It’s a seamless blend of tech convenience and culinary creativity, making it a natural fit for Saigon’s bustling expat hub.
 
-![]({{ site.baseurl }}/images/green_box/front_seating_area)
+![]({{ site.baseurl }}/images/green_box/front_seating_area.png)
 
 BitcoinVN is thrilled to team up with Green Box, bringing our BTM network to a venue that’s all about innovation and community. Open daily from 8 AM to Midnight, it’s the ideal spot to fuel up on fresh eats and explore the world of crypto—no KYC hassle, just simple, secure transactions. Whether you’re a seasoned trader sending value across borders or a first-timer curious about Bitcoin, Green Box offers a tasty way to step into the future of finance.
 
