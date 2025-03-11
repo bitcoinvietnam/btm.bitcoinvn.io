@@ -102,4 +102,6 @@ it is offline!
 
 ## How to buy Bitcoin with a BitcoinVN BTM?
 
+<iframe width="315" height="560" src="https://www.youtube.com/embed/Ycd7nekTmx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="100%" height="423" src="https://www.youtube.com/embed/6DqqVN0LXrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
