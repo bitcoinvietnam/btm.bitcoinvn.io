@@ -26,4 +26,4 @@ _Our Visindi BTMs utilize [BitcoinVN's exchange rates](https://bitcoinvn.io/pric
 
 Locations that host our BitAccess BTMs: Hosoco (D7) 
 
-_Our BitAccess BTMs utilize Bigpay's exchange rates_
+_Our BitAccess BTMs utilize Bitpay's exchange rates_
