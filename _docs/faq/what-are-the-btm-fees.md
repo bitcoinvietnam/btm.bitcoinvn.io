@@ -6,7 +6,7 @@ order: 13
 
 ## Visindi BTMs
 
-![]({{ site.baseurl }}/images/visindi_template.png)
+<img src="{{ site.baseurl }}/images/visindi_template.png" alt="Visindi BTM" width="300">
 
 * Buy: 11.8%
 * Sell: 2.8%
@@ -19,7 +19,7 @@ _Our Visindi BTMs utilize [BitcoinVN's exchange rates](https://bitcoinvn.io/pric
 
 ## BitAccess BTMs
 
-![]({{ site.baseurl }}/images/ba_template.png)
+<img src="{{ site.baseurl }}/images/ba_template.png" alt="BitAccess BTM" width="300">
 
 * Buy: 13.8%
 * Sell: 5.4%
