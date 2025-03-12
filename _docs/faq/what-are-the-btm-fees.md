@@ -14,6 +14,7 @@ order: 13
 Locations that host our Visindi BTMs: Italianis (D1), Big Pig (Tan Binh), Capones (D2), Green Box (D2), Surf Hostel (Vung Tau) and Soel Coffee & Tea (Thu Dau Mot, Binh Duong). 
 
 _Our Visindi BTMs utilize [BitcoinVN's exchange rates](https://bitcoinvn.io/prices)_ 
+
 ----
 
 ## BitAccess BTMs
