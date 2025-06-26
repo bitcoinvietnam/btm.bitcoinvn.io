@@ -4,9 +4,7 @@ title: I can't receive the verification SMS?
 order: 11
 ---
 
-Some Vietnamese network operators, primarily Mobifone, occasionally block BTM SMS. If you are unable to receive the verification SMS within a couple of minutes, you have a number of alternatives:
+Currently, the only Vietnamese network operator that is able to send our SMS OTP is Viettel. If you don't have access to a Viettel number you can:
 
 1. Use a foreign non-Vietnamese number
-2. Use another Vietnamese (not Mobifone) number
-3. Use another BitcoinVN ATM (BTM5 and above) that does not require a mobile number at all
-4. Contact the number shown on the BTM. We will use our company's SIM card in order to provide the verification code to you
+2. Contact the number shown on the BTM. We can use internal methods to communicate the OTP to you. 
