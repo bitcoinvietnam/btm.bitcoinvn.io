@@ -39,5 +39,3 @@ Phuc Bach is the man behind PEACE and Soel Tea & Coffee. A local entrepreneur, h
 ![]({{ site.baseurl }}/images/peace_coffee/fourth_pc.jpeg)
 
 We are impressed by Phuc’s entrepreneurship and contribution in Thu Dau Mot, Binh Duong and look forward to the new partnership!
-
-![]({{ site.baseurl }}/images/peace_coffee/last_pc.jpeg)

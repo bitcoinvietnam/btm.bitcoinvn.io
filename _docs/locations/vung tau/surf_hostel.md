@@ -18,11 +18,7 @@ google_maps_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1043
 * Phone: +840926328243
 * Style: Surf School and Hostel
 
-![]({{ site.baseurl }}/images/surf_hostel/btm_front_1.png)
-
 Tucked just a short stroll from Vung Tau’s Back Beach, Vungtau Surf Hostel is where waves meet wanderlust. This beachside gem offers cozy dorms, private rooms, and a shared kitchen—perfect for backpackers, surfers, and adventurers looking to soak up Vietnam’s coastal charm.
-
-![]({{ site.baseurl }}/images/surf_hostel/2nd_floor.png)
 
 With surf lessons on offer and a laid-back common area buzzing with international travelers, it’s a hotspot for those chasing sun, sea, and good vibes. Add in BitcoinVN’s BTM, and you’ve got a spot where you can swap VND for BTC as easily as you catch a wave.
 
@@ -33,8 +29,6 @@ Vungtau Surf Hostel is more than a crash pad—it’s a community hub blending a
 ![]({{ site.baseurl }}/images/surf_hostel/group_lessons.jpg)
 
 The hostel’s surf school, run by a Ukrainian owner and his Russian mate Kirell, brings a unique expat flair, catering to Vung Tau’s diverse Russian and Ukrainian crowd. Step inside, grab a coffee, and use the Bitcoin ATM to fund your next surf session or send crypto home—all in one chill spot.
-
-![]({{ site.baseurl }}/images/surf_hostel/btm_shop.png)
 
 BitcoinVN is stoked to partner with Vungtau Surf Hostel, dropping a BTM into the Vung Tau community. Open daily from 8 AM to 10 PM (reception 24/7), it’s a seamless stop for guests to buy or sell Bitcoin while living the beach life. Whether you’re a backpacker exploring Vietnam’s coast or an expat managing funds, this collab brings crypto convenience right to your doorstep. Swing by, ride the waves, and ride the crypto wave with us!
 
