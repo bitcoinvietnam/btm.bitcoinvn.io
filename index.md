@@ -1,6 +1,17 @@
 ---
 title: The fastest & most anonymous way to buy & sell Bitcoin for cash in Vietnam
 ---
+**🚨 Service Announcement 🚨**
+
+Due to some domestic telecommunication changes, SMS delivery for OTP codes are currently affected. This influences some Vietnamese and international carriers.
+
+👉 If you are unable to receive your OTP, please contact our customer service team — we can help you complete your transaction.
+
+We understand this is frustrating and are already working on long-term solutions to restore reliable OTP service.
+
+Thank you for your understanding and continued support.
+
+
 
 ## What would you like to do?
 
