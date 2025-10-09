@@ -15,7 +15,7 @@ google_maps_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.4252
 * Address (District 1): 17 Han Thuyen, Ben Nghe, D1, HCMC
 * Phone: +84901453194
 * Style: Italian restaurant (Pizza & Pasta)
-* Website: [https://italianis.vn/#menu](https://italianis.vn/#menu)
+* Website: [Italianis Pizza Saigon](https://italianis.vn/#menu)
 
 Led by the [young Vietnamese entrepreneurs Kevin and Ariel](https://news.bitcoinvn.io/interview-with-ariel-nguyen-of-italianis) Italiani’s has been a meeting point for the local Bitcoin community since 2016. As such, their original location also wrote a little Vietnamese Bitcoin history, hosting the very first Bitcoin ATM in Vietnam back in 2016.
 

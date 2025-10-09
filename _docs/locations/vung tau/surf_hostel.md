@@ -17,6 +17,7 @@ google_maps_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1043
 * Address: Hoang Hoa Tram, 160 22\20, Phường 9, Vũng Tàu
 * Phone: +840926328243
 * Style: Surf School and Hostel
+* Website: [Surf Hostel Vung Tau](https://www.instagram.com/vungtauhostel/)
 
 Tucked just a short stroll from Vung Tau’s Back Beach, Vungtau Surf Hostel is where waves meet wanderlust. This beachside gem offers cozy dorms, private rooms, and a shared kitchen—perfect for backpackers, surfers, and adventurers looking to soak up Vietnam’s coastal charm.
 

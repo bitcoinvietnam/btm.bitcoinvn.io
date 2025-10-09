@@ -16,6 +16,7 @@ google_maps_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.0870
 * Address: 6 Lê Văn Miến, Thảo Điền, Quận 2, Hồ Chí Minh 71107
 * Phone: +840795070010
 * Style: Healthy food, Poke-style, Viet Fusion.
+* Website: [Green Box @ SOMA](https://www.facebook.com/thegreenboxvn/)
 
 ![]({{ site.baseurl }}/images/green_box/Sign_1.png)
 
